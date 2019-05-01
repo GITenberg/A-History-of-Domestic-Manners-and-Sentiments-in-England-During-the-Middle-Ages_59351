@@ -1,0 +1,31 @@
+_repo: A-History-of-Domestic-Manners-and-Sentiments-in-England-During-the-Middle-Ages_59351
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Fairholt, F. W. (Frederick William)
+    alias: Fairholt, Frederick William
+    birthdate: 1814
+    deathdate: 1866
+    gutenberg_agent_id: '32015'
+    url: http://www.gutenberg.org/2009/agents/32015
+    wikipedia: http://en.wikipedia.org/wiki/Frederick_William_Fairholt
+creator:
+  author:
+    agent_name: Wright, Thomas
+    birthdate: 1859
+    deathdate: 1936
+    gutenberg_agent_id: '1436'
+    url: http://www.gutenberg.org/2009/agents/1436
+description: ''
+gutenberg_issued: '2019-04-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59351'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A History of Domestic Manners and Sentiments in England During the Middle Ages
+url: http://www.gutenberg.org/ebooks/59351
